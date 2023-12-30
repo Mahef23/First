@@ -5,6 +5,6 @@
                     #endif
 
 int main () {
-    CALC(19)
+    CALC(18)
 return 0;
 }
